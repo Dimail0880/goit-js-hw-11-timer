@@ -1,0 +1,23 @@
+body {
+    margin: auto;
+}
+
+.timer {
+    margin: 50px auto;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(201, 201, 201);
+}
+
+.value {
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
